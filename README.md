@@ -1,5 +1,5 @@
 ## Cadastro de Cursos
-Desenvolvimento de um aplicativo em Kotlin e implementação com de Room para persistência de dados, o app possui as seguintes funcionalidade:
+Desenvolvimento de um aplicativo em Kotlin com utilização de Room para persistência de dados, o app possui as seguintes funcionalidade:
 - Tela inicial onde lista os cursos cadastrados;
 - Tela de cadastro, nessa mesma tela o curso pode ser atualizado ou deletado, quando já estiver cadastrado;
 - Também pode acrescentar uma imagem pela URL. 
